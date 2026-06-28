@@ -1,5 +1,15 @@
 # ⚙️ Simulador de Ciclo de Vida de Processos
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
+  <img src="https://img.shields.io/badge/Language-C-blue" />
+  <img src="https://img.shields.io/badge/Interface-Terminal-black" />
+  <img src="https://img.shields.io/badge/Data%20Structure-Linked%20List-purple" />
+  <img src="https://img.shields.io/badge/Scheduling-Round%20Robin-orange" />
+  <img src="https://img.shields.io/badge/Queues-FIFO-yellow" />
+  <img src="https://img.shields.io/badge/Concept-Process%20Lifecycle-red" />
+</p>
+
 Projeto acadêmico de **Sistemas Operacionais** desenvolvido em **C** para simular o ciclo de vida de processos dentro de um sistema operacional.
 
 A aplicação trabalha com criação de processos, escalonamento, uso de CPU, bloqueios por eventos de entrada/saída, criação de processos filhos e finalização com relatórios estatísticos.
